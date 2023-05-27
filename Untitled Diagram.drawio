@@ -1,9 +1,67 @@
-<mxfile host="app.diagrams.net" modified="2023-05-27T16:39:47.524Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:109.0) Gecko/20100101 Firefox/113.0" version="21.3.4" etag="ZgMCm6cmMjzxsMlNbsWJ" type="github">
+<mxfile host="app.diagrams.net" modified="2023-05-27T16:42:51.278Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:109.0) Gecko/20100101 Firefox/113.0" etag="wdgl5L6myn4Of4JfZpMV" version="21.3.4" type="github">
   <diagram name="Page-1" id="9CtHIvkG42J3az2eYCfE">
-    <mxGraphModel>
+    <mxGraphModel dx="943" dy="480" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
+        <mxCell id="NF8HPoEmxSsryYm8LSA2-7" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="NF8HPoEmxSsryYm8LSA2-1" target="NF8HPoEmxSsryYm8LSA2-5">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="410" y="280" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="NF8HPoEmxSsryYm8LSA2-1" value="Đối tác 1" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="130" y="190" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="NF8HPoEmxSsryYm8LSA2-8" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="NF8HPoEmxSsryYm8LSA2-2" target="NF8HPoEmxSsryYm8LSA2-5">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="NF8HPoEmxSsryYm8LSA2-2" value="BackENd 1" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="130" y="290" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="NF8HPoEmxSsryYm8LSA2-9" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=1;entryDx=0;entryDy=0;" edge="1" parent="1" source="NF8HPoEmxSsryYm8LSA2-3" target="NF8HPoEmxSsryYm8LSA2-5">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="410" y="280" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="NF8HPoEmxSsryYm8LSA2-3" value="Đối tác 2" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="130" y="390" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="NF8HPoEmxSsryYm8LSA2-6" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="NF8HPoEmxSsryYm8LSA2-4" target="NF8HPoEmxSsryYm8LSA2-5">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points">
+              <mxPoint x="338" y="120" />
+              <mxPoint x="338" y="230" />
+              <mxPoint x="425" y="230" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="NF8HPoEmxSsryYm8LSA2-4" value="Web 2" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="130" y="90" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="NF8HPoEmxSsryYm8LSA2-13" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0.75;entryDx=0;entryDy=0;" edge="1" parent="1" source="NF8HPoEmxSsryYm8LSA2-5" target="NF8HPoEmxSsryYm8LSA2-10">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="NF8HPoEmxSsryYm8LSA2-14" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0.633;entryDx=0;entryDy=0;entryPerimeter=0;" edge="1" parent="1" source="NF8HPoEmxSsryYm8LSA2-5" target="NF8HPoEmxSsryYm8LSA2-11">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="NF8HPoEmxSsryYm8LSA2-15" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=-0.017;entryY=0.383;entryDx=0;entryDy=0;entryPerimeter=0;" edge="1" parent="1" source="NF8HPoEmxSsryYm8LSA2-5" target="NF8HPoEmxSsryYm8LSA2-12">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="NF8HPoEmxSsryYm8LSA2-5" value="Luka Gatecard" style="whiteSpace=wrap;html=1;aspect=fixed;fillColor=#f8cecc;strokeColor=#b85450;" vertex="1" parent="1">
+          <mxGeometry x="425" y="210" width="130" height="130" as="geometry" />
+        </mxCell>
+        <mxCell id="NF8HPoEmxSsryYm8LSA2-10" value="gate nạp nhanh1" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="670" y="130" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="NF8HPoEmxSsryYm8LSA2-11" value="gate 2" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="670" y="230" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="NF8HPoEmxSsryYm8LSA2-12" value="gate 3" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="670" y="330" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="NF8HPoEmxSsryYm8LSA2-17" value="" style="shape=cylinder3;whiteSpace=wrap;html=1;boundedLbl=1;backgroundOutline=1;size=15;fillColor=#f8cecc;strokeColor=#b85450;" vertex="1" parent="1">
+          <mxGeometry x="530" y="350" width="40" height="70" as="geometry" />
+        </mxCell>
       </root>
     </mxGraphModel>
   </diagram>
