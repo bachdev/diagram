@@ -1,6 +1,6 @@
-<mxfile host="app.diagrams.net" modified="2023-05-24T08:51:27.554Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:109.0) Gecko/20100101 Firefox/113.0" etag="8_7A3Ti4rCimTD17khT7" version="21.3.2" type="github">
+<mxfile host="app.diagrams.net" modified="2023-05-28T18:52:56.191Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:109.0) Gecko/20100101 Firefox/113.0" etag="rZQoQX1IwN3ret1G6IO3" version="21.3.4" type="github">
   <diagram name="Page-1" id="74b105a0-9070-1c63-61bc-23e55f88626e">
-    <mxGraphModel dx="1434" dy="1381" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1.5" pageWidth="1169" pageHeight="826" background="none" math="0" shadow="0">
+    <mxGraphModel dx="1562" dy="826" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1.5" pageWidth="1169" pageHeight="826" background="none" math="0" shadow="0">
       <root>
         <mxCell id="0" style=";html=1;" />
         <mxCell id="1" style=";html=1;" parent="0" />
@@ -93,22 +93,29 @@
             <mxPoint x="470" y="330" as="targetPoint" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="ywNtwa8M-bzELYX8Pv2s-1" value="Database" style="shape=cylinder3;whiteSpace=wrap;html=1;boundedLbl=1;backgroundOutline=1;size=15;" vertex="1" parent="1">
+        <mxCell id="ywNtwa8M-bzELYX8Pv2s-1" value="Database" style="shape=cylinder3;whiteSpace=wrap;html=1;boundedLbl=1;backgroundOutline=1;size=15;" parent="1" vertex="1">
           <mxGeometry x="650" y="150" width="60" height="80" as="geometry" />
         </mxCell>
-        <mxCell id="ywNtwa8M-bzELYX8Pv2s-2" value="Topnhanh Card Gateway" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+        <mxCell id="Nut1e1xFb1d1ITeDYzKO-1" value="Sử dụng 1 số API riêng" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=1;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="ywNtwa8M-bzELYX8Pv2s-2" target="ONBF2epBhMk6Fc8EotkD-5">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points">
+              <mxPoint x="880" y="620" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="ywNtwa8M-bzELYX8Pv2s-2" value="Topnhanh Card Gateway" style="rounded=0;whiteSpace=wrap;html=1;" parent="1" vertex="1">
           <mxGeometry x="817" y="260" width="120" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="ywNtwa8M-bzELYX8Pv2s-3" value="Database" style="shape=cylinder3;whiteSpace=wrap;html=1;boundedLbl=1;backgroundOutline=1;size=15;" vertex="1" parent="1">
+        <mxCell id="ywNtwa8M-bzELYX8Pv2s-3" value="Database" style="shape=cylinder3;whiteSpace=wrap;html=1;boundedLbl=1;backgroundOutline=1;size=15;" parent="1" vertex="1">
           <mxGeometry x="860" y="140" width="60" height="80" as="geometry" />
         </mxCell>
-        <mxCell id="ywNtwa8M-bzELYX8Pv2s-4" value="" style="endArrow=classic;html=1;rounded=0;exitX=0.5;exitY=0;exitDx=0;exitDy=0;entryX=0.367;entryY=0.988;entryDx=0;entryDy=0;entryPerimeter=0;" edge="1" parent="1" source="ONBF2epBhMk6Fc8EotkD-10" target="ywNtwa8M-bzELYX8Pv2s-1">
+        <mxCell id="ywNtwa8M-bzELYX8Pv2s-4" value="" style="endArrow=classic;html=1;rounded=0;exitX=0.5;exitY=0;exitDx=0;exitDy=0;entryX=0.367;entryY=0.988;entryDx=0;entryDy=0;entryPerimeter=0;" parent="1" source="ONBF2epBhMk6Fc8EotkD-10" target="ywNtwa8M-bzELYX8Pv2s-1" edge="1">
           <mxGeometry width="50" height="50" relative="1" as="geometry">
             <mxPoint x="700" y="720" as="sourcePoint" />
             <mxPoint x="750" y="670" as="targetPoint" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="ywNtwa8M-bzELYX8Pv2s-5" value="" style="endArrow=classic;html=1;rounded=0;exitX=0.5;exitY=0;exitDx=0;exitDy=0;entryX=0.5;entryY=1;entryDx=0;entryDy=0;entryPerimeter=0;" edge="1" parent="1" source="ywNtwa8M-bzELYX8Pv2s-2" target="ywNtwa8M-bzELYX8Pv2s-3">
+        <mxCell id="ywNtwa8M-bzELYX8Pv2s-5" value="" style="endArrow=classic;html=1;rounded=0;exitX=0.5;exitY=0;exitDx=0;exitDy=0;entryX=0.5;entryY=1;entryDx=0;entryDy=0;entryPerimeter=0;" parent="1" source="ywNtwa8M-bzELYX8Pv2s-2" target="ywNtwa8M-bzELYX8Pv2s-3" edge="1">
           <mxGeometry width="50" height="50" relative="1" as="geometry">
             <mxPoint x="870" y="540" as="sourcePoint" />
             <mxPoint x="920" y="490" as="targetPoint" />
