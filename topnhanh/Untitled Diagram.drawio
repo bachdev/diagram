@@ -1,6 +1,6 @@
-<mxfile host="app.diagrams.net" modified="2023-05-28T18:52:56.191Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:109.0) Gecko/20100101 Firefox/113.0" etag="rZQoQX1IwN3ret1G6IO3" version="21.3.4" type="github">
+<mxfile host="app.diagrams.net" modified="2023-05-29T02:30:50.321Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:109.0) Gecko/20100101 Firefox/113.0" etag="dPSmS1vRsHqdc1HxX9Wt" version="21.3.5" type="github">
   <diagram name="Page-1" id="74b105a0-9070-1c63-61bc-23e55f88626e">
-    <mxGraphModel dx="1562" dy="826" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1.5" pageWidth="1169" pageHeight="826" background="none" math="0" shadow="0">
+    <mxGraphModel dx="1434" dy="1381" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1.5" pageWidth="1169" pageHeight="826" background="none" math="0" shadow="0">
       <root>
         <mxCell id="0" style=";html=1;" />
         <mxCell id="1" style=";html=1;" parent="0" />
@@ -96,11 +96,16 @@
         <mxCell id="ywNtwa8M-bzELYX8Pv2s-1" value="Database" style="shape=cylinder3;whiteSpace=wrap;html=1;boundedLbl=1;backgroundOutline=1;size=15;" parent="1" vertex="1">
           <mxGeometry x="650" y="150" width="60" height="80" as="geometry" />
         </mxCell>
-        <mxCell id="Nut1e1xFb1d1ITeDYzKO-1" value="Sử dụng 1 số API riêng" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=1;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="ywNtwa8M-bzELYX8Pv2s-2" target="ONBF2epBhMk6Fc8EotkD-5">
+        <mxCell id="Nut1e1xFb1d1ITeDYzKO-1" value="Sử dụng 1 số API riêng" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=1;entryY=0.5;entryDx=0;entryDy=0;" parent="1" source="ywNtwa8M-bzELYX8Pv2s-2" target="ONBF2epBhMk6Fc8EotkD-5" edge="1">
           <mxGeometry relative="1" as="geometry">
             <Array as="points">
               <mxPoint x="880" y="620" />
             </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="irUuur8rEJF29wK72yOi-1" value="Service Token" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];strokeColor=#FF3333;fillColor=#FF3F0F;" vertex="1" connectable="0" parent="Nut1e1xFb1d1ITeDYzKO-1">
+          <mxGeometry x="-0.2826" y="2" relative="1" as="geometry">
+            <mxPoint as="offset" />
           </mxGeometry>
         </mxCell>
         <mxCell id="ywNtwa8M-bzELYX8Pv2s-2" value="Topnhanh Card Gateway" style="rounded=0;whiteSpace=wrap;html=1;" parent="1" vertex="1">
