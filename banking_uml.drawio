@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2023-06-27T08:24:38.536Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:109.0) Gecko/20100101 Firefox/114.0" etag="EBFt63DNb0zx7xotZnHc" version="21.3.6" type="github">
+<mxfile host="app.diagrams.net" modified="2023-06-27T08:25:19.605Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:109.0) Gecko/20100101 Firefox/114.0" etag="dUUxvwjV9ZeozSzyx4v3" version="21.3.6" type="github">
   <diagram name="Page-1" id="2YBvvXClWsGukQMizWep">
     <mxGraphModel dx="1434" dy="1381" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
       <root>
@@ -75,51 +75,8 @@
             <mxPoint x="5" y="-32" as="offset" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="XB0kFff-WBzxuI54zyYx-11" value="2. Xử lý Enqueue" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" parent="1" vertex="1">
-          <mxGeometry x="100" y="780" width="60" height="30" as="geometry" />
-        </mxCell>
-        <mxCell id="XB0kFff-WBzxuI54zyYx-14" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" parent="1" source="XB0kFff-WBzxuI54zyYx-12" target="XB0kFff-WBzxuI54zyYx-13" edge="1">
-          <mxGeometry relative="1" as="geometry">
-            <mxPoint x="240" y="870" as="targetPoint" />
-          </mxGeometry>
-        </mxCell>
-        <mxCell id="XB0kFff-WBzxuI54zyYx-12" value="Lấy ScrachCard&amp;nbsp; trong queue ra ( FIFO)" style="rounded=1;whiteSpace=wrap;html=1;" parent="1" vertex="1">
-          <mxGeometry x="80" y="840" width="120" height="60" as="geometry" />
-        </mxCell>
-        <mxCell id="XB0kFff-WBzxuI54zyYx-17" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" parent="1" source="XB0kFff-WBzxuI54zyYx-13" target="XB0kFff-WBzxuI54zyYx-16" edge="1">
-          <mxGeometry relative="1" as="geometry" />
-        </mxCell>
-        <mxCell id="XB0kFff-WBzxuI54zyYx-13" value="Đọc Config trong DB để điều hướng " style="rounded=1;whiteSpace=wrap;html=1;" parent="1" vertex="1">
-          <mxGeometry x="250" y="840" width="120" height="60" as="geometry" />
-        </mxCell>
-        <mxCell id="XB0kFff-WBzxuI54zyYx-22" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" parent="1" source="XB0kFff-WBzxuI54zyYx-16" target="XB0kFff-WBzxuI54zyYx-21" edge="1">
-          <mxGeometry relative="1" as="geometry" />
-        </mxCell>
-        <mxCell id="XB0kFff-WBzxuI54zyYx-16" value="Thực Hiện Request sang 3rd Găteway" style="rounded=1;whiteSpace=wrap;html=1;" parent="1" vertex="1">
-          <mxGeometry x="430" y="840" width="120" height="60" as="geometry" />
-        </mxCell>
-        <mxCell id="XB0kFff-WBzxuI54zyYx-27" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" parent="1" source="XB0kFff-WBzxuI54zyYx-21" target="XB0kFff-WBzxuI54zyYx-26" edge="1">
-          <mxGeometry relative="1" as="geometry" />
-        </mxCell>
-        <mxCell id="XB0kFff-WBzxuI54zyYx-29" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" parent="1" source="XB0kFff-WBzxuI54zyYx-21" target="XB0kFff-WBzxuI54zyYx-28" edge="1">
-          <mxGeometry relative="1" as="geometry" />
-        </mxCell>
-        <mxCell id="XB0kFff-WBzxuI54zyYx-30" value="&lt;div&gt;Thất bại&amp;nbsp; ( timeout, Gateway Closed)&lt;/div&gt;&lt;div&gt;&lt;br&gt;&lt;/div&gt;" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" parent="XB0kFff-WBzxuI54zyYx-29" vertex="1" connectable="0">
-          <mxGeometry x="-0.52" y="-2" relative="1" as="geometry">
-            <mxPoint x="-70" y="12" as="offset" />
-          </mxGeometry>
-        </mxCell>
-        <mxCell id="XB0kFff-WBzxuI54zyYx-21" value="Gọi thành công" style="rhombus;whiteSpace=wrap;html=1;rounded=1;" parent="1" vertex="1">
-          <mxGeometry x="450" y="970" width="80" height="80" as="geometry" />
-        </mxCell>
-        <mxCell id="XB0kFff-WBzxuI54zyYx-26" value="" style="rounded=1;whiteSpace=wrap;html=1;" parent="1" vertex="1">
-          <mxGeometry x="590" y="980" width="120" height="60" as="geometry" />
-        </mxCell>
-        <mxCell id="XB0kFff-WBzxuI54zyYx-28" value="" style="shape=waypoint;sketch=0;size=6;pointerEvents=1;points=[];fillColor=default;resizable=0;rotatable=0;perimeter=centerPerimeter;snapToPoint=1;rounded=1;" parent="1" vertex="1">
-          <mxGeometry x="300" y="890" width="20" height="20" as="geometry" />
-        </mxCell>
-        <mxCell id="XB0kFff-WBzxuI54zyYx-31" value="Lưu CardRequest và Update ScratchCard " style="rounded=1;whiteSpace=wrap;html=1;" parent="1" vertex="1">
-          <mxGeometry x="590" y="980" width="120" height="60" as="geometry" />
+        <mxCell id="6YzyMlJih-G3lqqA-Jwb-6" value="Luồng Nạp Tiền ( Banking)" style="text;strokeColor=none;fillColor=none;html=1;fontSize=24;fontStyle=1;verticalAlign=middle;align=center;" vertex="1" parent="1">
+          <mxGeometry x="240" y="360" width="100" height="40" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
