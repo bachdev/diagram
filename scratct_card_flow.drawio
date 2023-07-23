@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2023-07-04T16:27:34.301Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:109.0) Gecko/20100101 Firefox/114.0" etag="OJa35X7TwI88fbll8woC" version="21.5.1" type="github">
+<mxfile host="app.diagrams.net" modified="2023-07-23T10:18:47.389Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:109.0) Gecko/20100101 Firefox/115.0" etag="LP6GbjwCLG59ohCfQPQy" version="21.6.5" type="github">
   <diagram name="Page-1" id="2YBvvXClWsGukQMizWep">
     <mxGraphModel dx="1562" dy="826" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
       <root>
@@ -85,7 +85,7 @@
         <mxCell id="XB0kFff-WBzxuI54zyYx-7" value="Validate Các thông tin thẻ cào" style="rounded=0;whiteSpace=wrap;html=1;" parent="1" vertex="1">
           <mxGeometry x="80" y="550" width="120" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="3bCc3TMQqqLkJ8yuEZmT-1" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="XB0kFff-WBzxuI54zyYx-8" target="XB0kFff-WBzxuI54zyYx-1">
+        <mxCell id="3bCc3TMQqqLkJ8yuEZmT-1" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" parent="1" source="XB0kFff-WBzxuI54zyYx-8" target="XB0kFff-WBzxuI54zyYx-1" edge="1">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="XB0kFff-WBzxuI54zyYx-8" value="1. Nhận Giao dịch" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" parent="1" vertex="1">
@@ -136,6 +136,12 @@
         </mxCell>
         <mxCell id="XB0kFff-WBzxuI54zyYx-31" value="Lưu CardRequest và Update ScratchCard " style="rounded=1;whiteSpace=wrap;html=1;" parent="1" vertex="1">
           <mxGeometry x="590" y="980" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="t99A4bFoEA9lwXHTiNUI-2" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="t99A4bFoEA9lwXHTiNUI-1" target="aM9ryv3xv72pqoxQDRHE-2">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="t99A4bFoEA9lwXHTiNUI-1" value="Text" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
+          <mxGeometry x="210" y="178" width="40" height="30" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
