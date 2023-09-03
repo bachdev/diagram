@@ -1,9 +1,54 @@
-<mxfile host="app.diagrams.net" modified="2023-09-03T19:03:04.076Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:109.0) Gecko/20100101 Firefox/117.0" version="21.6.8" etag="VocapkcNrrIOg6fDX9oT" type="github">
+<mxfile host="app.diagrams.net" modified="2023-09-03T19:31:39.393Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:109.0) Gecko/20100101 Firefox/117.0" etag="beiWGgScqDcKEr1qHMqt" version="21.6.8" type="github">
   <diagram name="Page-1" id="iOP9NucEH-zzFqvL8uEB">
-    <mxGraphModel>
+    <mxGraphModel dx="1562" dy="826" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
+        <mxCell id="ymEb2g0kcDg-jAVKu9gT-1" value="Casandra" style="shape=cylinder3;whiteSpace=wrap;html=1;boundedLbl=1;backgroundOutline=1;size=15;fillColor=#e1d5e7;strokeColor=#9673a6;" vertex="1" parent="1">
+          <mxGeometry x="550" y="310" width="75" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="ymEb2g0kcDg-jAVKu9gT-2" value="Postgre" style="shape=cylinder3;whiteSpace=wrap;html=1;boundedLbl=1;backgroundOutline=1;size=15;fillColor=#dae8fc;strokeColor=#6c8ebf;" vertex="1" parent="1">
+          <mxGeometry x="460" y="310" width="70" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="ymEb2g0kcDg-jAVKu9gT-4" value="Post Service" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="320" y="70" width="170" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="ymEb2g0kcDg-jAVKu9gT-5" value="Media Service" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="465" y="220" width="170" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="ymEb2g0kcDg-jAVKu9gT-6" value="PostDB" style="shape=cylinder3;whiteSpace=wrap;html=1;boundedLbl=1;backgroundOutline=1;size=15;fillColor=#dae8fc;strokeColor=#6c8ebf;" vertex="1" parent="1">
+          <mxGeometry x="520" y="65" width="60" height="70" as="geometry" />
+        </mxCell>
+        <mxCell id="ymEb2g0kcDg-jAVKu9gT-15" value="API GATEWAY" style="swimlane;startSize=0;" vertex="1" parent="1">
+          <mxGeometry x="40" y="280" width="160" height="160" as="geometry" />
+        </mxCell>
+        <mxCell id="ymEb2g0kcDg-jAVKu9gT-3" value="API GATEWAY" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="ymEb2g0kcDg-jAVKu9gT-15">
+          <mxGeometry x="20" y="50" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="ymEb2g0kcDg-jAVKu9gT-16" value="Identity Service" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="320" y="500" width="170" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="ymEb2g0kcDg-jAVKu9gT-17" value="IdentityDB" style="shape=cylinder3;whiteSpace=wrap;html=1;boundedLbl=1;backgroundOutline=1;size=15;fillColor=#dae8fc;strokeColor=#6c8ebf;" vertex="1" parent="1">
+          <mxGeometry x="520" y="500" width="60" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="ymEb2g0kcDg-jAVKu9gT-18" value="User Service" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="320" y="610" width="170" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="ymEb2g0kcDg-jAVKu9gT-19" value="EventDB" style="shape=cylinder3;whiteSpace=wrap;html=1;boundedLbl=1;backgroundOutline=1;size=15;fillColor=#fff2cc;strokeColor=#d6b656;" vertex="1" parent="1">
+          <mxGeometry x="750" y="390" width="70" height="190" as="geometry" />
+        </mxCell>
+        <mxCell id="ymEb2g0kcDg-jAVKu9gT-20" value="User DB" style="shape=cylinder3;whiteSpace=wrap;html=1;boundedLbl=1;backgroundOutline=1;size=15;fillColor=#dae8fc;strokeColor=#6c8ebf;" vertex="1" parent="1">
+          <mxGeometry x="520" y="610" width="60" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="ymEb2g0kcDg-jAVKu9gT-21" value="Payment Service" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="320" y="720" width="170" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="ymEb2g0kcDg-jAVKu9gT-22" value="Payment DB" style="shape=cylinder3;whiteSpace=wrap;html=1;boundedLbl=1;backgroundOutline=1;size=15;fillColor=#dae8fc;strokeColor=#6c8ebf;" vertex="1" parent="1">
+          <mxGeometry x="520" y="720" width="60" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="ymEb2g0kcDg-jAVKu9gT-23" value="Event&amp;nbsp; Service" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="660" y="390" width="70" height="190" as="geometry" />
+        </mxCell>
       </root>
     </mxGraphModel>
   </diagram>
