@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2023-12-01T07:49:58.154Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:120.0) Gecko/20100101 Firefox/120.0" etag="1rwag_WHVV4D18whcC-H" version="22.1.5" type="github">
+<mxfile host="app.diagrams.net" modified="2023-12-01T08:14:06.997Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:120.0) Gecko/20100101 Firefox/120.0" etag="Sqljf0Smfuix1Dm5qdBW" version="22.1.5" type="github">
   <diagram name="Page-1" id="sD5OJqu_6kxxvENS8JZO">
     <mxGraphModel dx="1434" dy="1381" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
       <root>
@@ -8,7 +8,7 @@
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="LWEChGxWJWfsOIMtEDIV-1" value="" style="shape=cylinder3;whiteSpace=wrap;html=1;boundedLbl=1;backgroundOutline=1;size=15;" vertex="1" parent="1">
-          <mxGeometry x="200" y="310" width="60" height="80" as="geometry" />
+          <mxGeometry x="279.4" y="283" width="60" height="80" as="geometry" />
         </mxCell>
         <mxCell id="LWEChGxWJWfsOIMtEDIV-2" value="CMS, TOOL" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="170" y="190" width="120" height="60" as="geometry" />
@@ -28,11 +28,34 @@
         <mxCell id="LWEChGxWJWfsOIMtEDIV-8" value="" style="outlineConnect=0;dashed=0;verticalLabelPosition=bottom;verticalAlign=top;align=center;html=1;shape=mxgraph.aws3.mobile_client;fillColor=#D2D3D3;gradientColor=none;" vertex="1" parent="1">
           <mxGeometry x="711" y="300" width="40.5" height="63" as="geometry" />
         </mxCell>
+        <mxCell id="LWEChGxWJWfsOIMtEDIV-11" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="LWEChGxWJWfsOIMtEDIV-9" target="LWEChGxWJWfsOIMtEDIV-10">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
         <mxCell id="LWEChGxWJWfsOIMtEDIV-9" value="&lt;table border=&quot;1&quot; width=&quot;100%&quot; height=&quot;100%&quot; cellpadding=&quot;4&quot; style=&quot;width:100%;height:100%;border-collapse:collapse;&quot;&gt;&lt;tbody&gt;&lt;tr&gt;&lt;th align=&quot;center&quot;&gt;Văn Phòng Cam&lt;br&gt;&lt;/th&gt;&lt;/tr&gt;&lt;tr&gt;&lt;td align=&quot;center&quot;&gt;Box Phone&lt;br&gt;&lt;/td&gt;&lt;/tr&gt;&lt;tr&gt;&lt;td align=&quot;center&quot;&gt;Máy Tính Vận Hành 1&lt;/td&gt;&lt;/tr&gt;&lt;/tbody&gt;&lt;/table&gt;" style="text;html=1;whiteSpace=wrap;strokeColor=none;fillColor=none;overflow=fill;" vertex="1" parent="1">
-          <mxGeometry x="411.2" y="130" width="378.8" height="270" as="geometry" />
+          <mxGeometry x="440" y="130" width="350" height="270" as="geometry" />
         </mxCell>
         <mxCell id="LWEChGxWJWfsOIMtEDIV-10" value="&lt;table border=&quot;1&quot; width=&quot;100%&quot; height=&quot;100%&quot; cellpadding=&quot;4&quot; style=&quot;width:100%;height:100%;border-collapse:collapse;&quot;&gt;&lt;tbody&gt;&lt;tr&gt;&lt;th align=&quot;center&quot;&gt;Cloud&lt;br&gt;&lt;/th&gt;&lt;/tr&gt;&lt;tr&gt;&lt;td align=&quot;center&quot;&gt;&lt;br&gt;&lt;/td&gt;&lt;/tr&gt;&lt;tr&gt;&lt;td align=&quot;center&quot;&gt;&lt;br&gt;&lt;/td&gt;&lt;/tr&gt;&lt;/tbody&gt;&lt;/table&gt;" style="text;html=1;whiteSpace=wrap;strokeColor=none;fillColor=none;overflow=fill;" vertex="1" parent="1">
-          <mxGeometry x="32.39999999999998" y="130" width="378.8" height="270" as="geometry" />
+          <mxGeometry x="59.4" y="120" width="320" height="350" as="geometry" />
+        </mxCell>
+        <mxCell id="LWEChGxWJWfsOIMtEDIV-18" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="LWEChGxWJWfsOIMtEDIV-12" target="LWEChGxWJWfsOIMtEDIV-1">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="LWEChGxWJWfsOIMtEDIV-12" value="Api Tạo Lệnh, Callback" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="180" y="396.2" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="LWEChGxWJWfsOIMtEDIV-15" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=1;entryDx=0;entryDy=0;" edge="1" parent="1" source="LWEChGxWJWfsOIMtEDIV-13" target="LWEChGxWJWfsOIMtEDIV-12">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="219" y="510" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="LWEChGxWJWfsOIMtEDIV-13" value="Đối Tác 1" style="ellipse;shape=cloud;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="80" y="610" width="120" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="LWEChGxWJWfsOIMtEDIV-17" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="LWEChGxWJWfsOIMtEDIV-14" target="LWEChGxWJWfsOIMtEDIV-12">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="LWEChGxWJWfsOIMtEDIV-14" value="Đối tác 2" style="ellipse;shape=cloud;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="279.4" y="610" width="120" height="80" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
