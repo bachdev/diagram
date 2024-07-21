@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2024-07-21T15:35:05.202Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:128.0) Gecko/20100101 Firefox/128.0" etag="b0-lcnbz6TDV_tiZxKxQ" version="24.7.1" type="github">
+<mxfile host="app.diagrams.net" modified="2024-07-21T15:39:06.153Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:128.0) Gecko/20100101 Firefox/128.0" etag="MPM8L7cJhgKFWDPJ85_H" version="24.7.1" type="github">
   <diagram name="Page-1" id="iOP9NucEH-zzFqvL8uEB">
     <mxGraphModel dx="2412" dy="826" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
       <root>
@@ -48,7 +48,7 @@
         <mxCell id="ymEb2g0kcDg-jAVKu9gT-18" value="&lt;div&gt;Identity&amp;nbsp; Service&lt;/div&gt;&lt;div&gt;SSO Auth &lt;br&gt;&lt;/div&gt;" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#e1d5e7;strokeColor=#9673a6;" parent="ymEb2g0kcDg-jAVKu9gT-41" vertex="1">
           <mxGeometry x="20" y="26.25" width="170" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="ymEb2g0kcDg-jAVKu9gT-20" value="User DB" style="shape=cylinder3;whiteSpace=wrap;html=1;boundedLbl=1;backgroundOutline=1;size=15;fillColor=#dae8fc;strokeColor=#6c8ebf;" parent="ymEb2g0kcDg-jAVKu9gT-41" vertex="1">
+        <mxCell id="ymEb2g0kcDg-jAVKu9gT-20" value="Identity DB" style="shape=cylinder3;whiteSpace=wrap;html=1;boundedLbl=1;backgroundOutline=1;size=15;fillColor=#dae8fc;strokeColor=#6c8ebf;" parent="ymEb2g0kcDg-jAVKu9gT-41" vertex="1">
           <mxGeometry x="240" y="26.25" width="60" height="60" as="geometry" />
         </mxCell>
         <mxCell id="isoSCwNyjUuJ1y2WLRkC-23" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.217;entryY=0.513;entryDx=0;entryDy=0;entryPerimeter=0;" parent="ymEb2g0kcDg-jAVKu9gT-41" source="ymEb2g0kcDg-jAVKu9gT-18" target="ymEb2g0kcDg-jAVKu9gT-20" edge="1">
