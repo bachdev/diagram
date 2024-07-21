@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2024-07-21T15:34:04.690Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:128.0) Gecko/20100101 Firefox/128.0" etag="ewvj_4-Gr5YeSFP8t9JU" version="24.7.1" type="github">
+<mxfile host="app.diagrams.net" modified="2024-07-21T15:35:05.202Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:128.0) Gecko/20100101 Firefox/128.0" etag="b0-lcnbz6TDV_tiZxKxQ" version="24.7.1" type="github">
   <diagram name="Page-1" id="iOP9NucEH-zzFqvL8uEB">
     <mxGraphModel dx="2412" dy="826" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
       <root>
@@ -98,7 +98,7 @@
           <mxGeometry x="50" y="22.5" width="70" height="327.5" as="geometry" />
         </mxCell>
         <mxCell id="ymEb2g0kcDg-jAVKu9gT-73" value="TỔNG QUAN VNPAY PLUS" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=#b85450;fillColor=#f8cecc;fontStyle=1" parent="1" vertex="1">
-          <mxGeometry x="-290" y="950" width="170" height="30" as="geometry" />
+          <mxGeometry x="-304" y="955" width="170" height="30" as="geometry" />
         </mxCell>
         <mxCell id="clGpNB9oHALhCs1MbPwn-21" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="isoSCwNyjUuJ1y2WLRkC-10" target="clGpNB9oHALhCs1MbPwn-20">
           <mxGeometry relative="1" as="geometry" />
@@ -225,6 +225,9 @@
         </mxCell>
         <mxCell id="clGpNB9oHALhCs1MbPwn-33" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=1.003;entryY=0.58;entryDx=0;entryDy=0;entryPerimeter=0;" edge="1" parent="1" source="ymEb2g0kcDg-jAVKu9gT-58" target="ymEb2g0kcDg-jAVKu9gT-41">
           <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="clGpNB9oHALhCs1MbPwn-36" value="&lt;div&gt;- Cung cấp dịch vụ cho thuê payment ( paypal, PM, WMZ ...) cho người dùng mà người dùng không cần có tài khoản &lt;br&gt;&lt;/div&gt;&lt;div&gt;-Tài khoản người dùng có số dư để thực hiện dịch vụ nạp rút ( = VNĐ, theo tỉ giá quy đổi của hệ thống ) &lt;br&gt;&lt;/div&gt;&lt;div&gt;&lt;br&gt;&lt;/div&gt;" style="text;html=1;whiteSpace=wrap;overflow=hidden;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="-424" y="1010" width="410" height="60" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
