@@ -106,26 +106,11 @@
         <mxCell id="ymEb2g0kcDg-jAVKu9gT-23" value="Event&amp;nbsp; Service" style="rounded=1;whiteSpace=wrap;html=1;" parent="ymEb2g0kcDg-jAVKu9gT-58" vertex="1">
           <mxGeometry x="50" y="22.5" width="70" height="327.5" as="geometry" />
         </mxCell>
-        <mxCell id="isoSCwNyjUuJ1y2WLRkC-10" value="Post" style="swimlane;startSize=0;rounded=1;shadow=0;fontColor=none;labelBackgroundColor=none;noLabel=1;" parent="1" vertex="1">
-          <mxGeometry x="-20" y="620" width="250" height="150" as="geometry" />
-        </mxCell>
-        <mxCell id="isoSCwNyjUuJ1y2WLRkC-11" value="&lt;b&gt;Notify Service&lt;br&gt;&lt;/b&gt;" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" parent="isoSCwNyjUuJ1y2WLRkC-10" vertex="1">
-          <mxGeometry x="140" y="82.5" width="100" height="30" as="geometry" />
-        </mxCell>
-        <mxCell id="isoSCwNyjUuJ1y2WLRkC-12" value="Notify&amp;nbsp; Service" style="rounded=1;whiteSpace=wrap;html=1;" parent="isoSCwNyjUuJ1y2WLRkC-10" vertex="1">
-          <mxGeometry x="20" y="20" width="170" height="60" as="geometry" />
-        </mxCell>
-        <mxCell id="isoSCwNyjUuJ1y2WLRkC-13" value="Notify&amp;nbsp; DB" style="shape=cylinder3;whiteSpace=wrap;html=1;boundedLbl=1;backgroundOutline=1;size=15;fillColor=#dae8fc;strokeColor=#6c8ebf;" parent="isoSCwNyjUuJ1y2WLRkC-10" vertex="1">
-          <mxGeometry x="60" y="90" width="60" height="52.5" as="geometry" />
-        </mxCell>
         <mxCell id="isoSCwNyjUuJ1y2WLRkC-15" value="Partner" style="image;sketch=0;aspect=fixed;html=1;points=[];align=center;fontSize=12;image=img/lib/mscae/Two_User_Icon.svg;" parent="1" vertex="1">
           <mxGeometry x="-212" y="50" width="50" height="50" as="geometry" />
         </mxCell>
         <mxCell id="isoSCwNyjUuJ1y2WLRkC-17" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0.425;entryDx=0;entryDy=0;entryPerimeter=0;" parent="1" source="isoSCwNyjUuJ1y2WLRkC-15" target="ymEb2g0kcDg-jAVKu9gT-15" edge="1">
           <mxGeometry relative="1" as="geometry" />
-        </mxCell>
-        <mxCell id="isoSCwNyjUuJ1y2WLRkC-24" value="Gửi http request tới webhook đối tác " style="text;html=1;whiteSpace=wrap;overflow=hidden;rounded=0;" parent="1" vertex="1">
-          <mxGeometry x="-60" y="780" width="170" height="60" as="geometry" />
         </mxCell>
         <mxCell id="clGpNB9oHALhCs1MbPwn-14" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=1;entryY=0.5;entryDx=0;entryDy=0;" parent="1" source="clGpNB9oHALhCs1MbPwn-11" target="ymEb2g0kcDg-jAVKu9gT-24" edge="1">
           <mxGeometry relative="1" as="geometry" />
