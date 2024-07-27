@@ -95,7 +95,7 @@
           <mxGeometry x="130" y="22.5" width="70" height="330" as="geometry" />
         </mxCell>
         <mxCell id="ymEb2g0kcDg-jAVKu9gT-23" value="Event&amp;nbsp; Service" style="rounded=1;whiteSpace=wrap;html=1;" parent="ymEb2g0kcDg-jAVKu9gT-58" vertex="1">
-          <mxGeometry x="50" y="22.5" width="70" height="327.5" as="geometry" />
+          <mxGeometry x="30" y="22.5" width="70" height="327.5" as="geometry" />
         </mxCell>
         <mxCell id="ymEb2g0kcDg-jAVKu9gT-73" value="TỔNG QUAN VNPAY PLUS" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=#b85450;fillColor=#f8cecc;fontStyle=1" parent="1" vertex="1">
           <mxGeometry x="-304" y="955" width="170" height="30" as="geometry" />
