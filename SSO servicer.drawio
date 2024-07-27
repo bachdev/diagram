@@ -144,7 +144,7 @@
           <mxGeometry x="-410" y="-330" width="180" height="120" as="geometry" />
         </mxCell>
         <mxCell id="T_EXf0S--1-C_7MDIEJj-22" value="&lt;h1 style=&quot;margin-top: 0px;&quot;&gt;Admin&lt;/h1&gt;&lt;div&gt;&lt;br&gt;&lt;/div&gt;&lt;div&gt;- Quản lý thẻ&lt;/div&gt;&lt;div&gt;- Quản lý Log&lt;/div&gt;" style="text;html=1;whiteSpace=wrap;overflow=hidden;rounded=0;" vertex="1" parent="1">
-          <mxGeometry x="-180" y="-350" width="180" height="120" as="geometry" />
+          <mxGeometry x="-194" y="-330" width="180" height="120" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
