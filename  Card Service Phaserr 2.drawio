@@ -209,6 +209,9 @@
         <mxCell id="WQcWtHXtiNmqQjXh-VJ1-14" value="&lt;b&gt;Backend React JS : &lt;/b&gt;&lt;br&gt;&lt;div&gt;- Hiện thị lịch sử nạp thẻ&amp;nbsp; ( có filter lọc&amp;nbsp; theo từng đối tác ) &lt;/div&gt;&lt;div&gt;- Role admin : Quản trị Partner ( CRUD) &lt;br&gt;&lt;/div&gt;&lt;div&gt;- Hiện thị lịch sử callback ( có filter lọc&amp;nbsp; theo từng đối tác ) &lt;br&gt;&lt;/div&gt;" style="text;html=1;whiteSpace=wrap;overflow=hidden;rounded=0;" parent="1" vertex="1">
           <mxGeometry x="-320" y="-430" width="295" height="105" as="geometry" />
         </mxCell>
+        <mxCell id="TLidrUCP_DfOvae4FdT3-1" value="&lt;b&gt;Đơn Hàng : &lt;/b&gt;&lt;br&gt;&lt;div&gt;- 1 Sdt là 1 đơn hàng &lt;br&gt;&lt;/div&gt;&lt;div&gt;- 1 Đơn hàng nạp được nhiều thẻ&lt;br&gt;&lt;/div&gt;&lt;div&gt;- Ví dụ : 1 thẻ cào 50k đến&amp;nbsp; &amp;gt;&amp;gt; chọn đơn hàng có độ ưu tiên cao nhất để gọi api nạp thẻ &lt;br&gt;&lt;/div&gt;&lt;div&gt;&lt;br&gt;&lt;/div&gt;" style="text;html=1;whiteSpace=wrap;overflow=hidden;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="250" y="-550" width="390" height="105" as="geometry" />
+        </mxCell>
       </root>
     </mxGraphModel>
   </diagram>
