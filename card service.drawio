@@ -1,6 +1,6 @@
-<mxfile host="app.diagrams.net" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:128.0) Gecko/20100101 Firefox/128.0" version="24.7.4">
+<mxfile host="app.diagrams.net" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:128.0) Gecko/20100101 Firefox/128.0" version="24.7.6">
   <diagram name="Page-1" id="iOP9NucEH-zzFqvL8uEB">
-    <mxGraphModel dx="2537" dy="2725" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
+    <mxGraphModel dx="2412" dy="1926" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -10,12 +10,10 @@
         <mxCell id="clGpNB9oHALhCs1MbPwn-30" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" parent="1" source="ymEb2g0kcDg-jAVKu9gT-15" target="ymEb2g0kcDg-jAVKu9gT-47" edge="1">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="WQcWtHXtiNmqQjXh-VJ1-3" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="ymEb2g0kcDg-jAVKu9gT-15" target="clGpNB9oHALhCs1MbPwn-42">
+        <mxCell id="WQcWtHXtiNmqQjXh-VJ1-3" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" parent="1" source="ymEb2g0kcDg-jAVKu9gT-15" target="clGpNB9oHALhCs1MbPwn-42" edge="1">
           <mxGeometry relative="1" as="geometry">
             <Array as="points">
-              <mxPoint x="120" y="-80" />
-              <mxPoint x="256" y="-80" />
-              <mxPoint x="256" y="-140" />
+              <mxPoint x="120" y="-140" />
             </Array>
           </mxGeometry>
         </mxCell>
@@ -110,7 +108,12 @@
           <mxGeometry x="-212" y="50" width="50" height="50" as="geometry" />
         </mxCell>
         <mxCell id="isoSCwNyjUuJ1y2WLRkC-17" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0.425;entryDx=0;entryDy=0;entryPerimeter=0;" parent="1" source="isoSCwNyjUuJ1y2WLRkC-15" target="ymEb2g0kcDg-jAVKu9gT-15" edge="1">
-          <mxGeometry relative="1" as="geometry" />
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points">
+              <mxPoint x="-50" y="75" />
+              <mxPoint x="-50" y="78" />
+            </Array>
+          </mxGeometry>
         </mxCell>
         <mxCell id="clGpNB9oHALhCs1MbPwn-14" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=1;entryY=0.5;entryDx=0;entryDy=0;" parent="1" source="clGpNB9oHALhCs1MbPwn-11" target="ymEb2g0kcDg-jAVKu9gT-24" edge="1">
           <mxGeometry relative="1" as="geometry" />
@@ -122,7 +125,7 @@
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="clGpNB9oHALhCs1MbPwn-20" value="&lt;div&gt;Partner Webhook&lt;/div&gt;&lt;div&gt;&lt;br&gt;&lt;/div&gt;" style="html=1;whiteSpace=wrap;strokeColor=none;fillColor=#0079D6;labelPosition=center;verticalLabelPosition=middle;verticalAlign=top;align=center;fontSize=12;outlineConnect=0;spacingTop=-6;fontColor=#FFFFFF;sketch=0;shape=mxgraph.sitemap.cloud;" parent="1" vertex="1">
-          <mxGeometry x="60" y="-380" width="120" height="70" as="geometry" />
+          <mxGeometry x="40" y="-360" width="150" height="70" as="geometry" />
         </mxCell>
         <mxCell id="ymEb2g0kcDg-jAVKu9gT-29" value="&lt;b&gt;Core Banking&lt;br&gt;&lt;/b&gt;" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" parent="1" vertex="1">
           <mxGeometry x="805" width="100" height="30" as="geometry" />
@@ -156,7 +159,7 @@
         <mxCell id="clGpNB9oHALhCs1MbPwn-42" value="Post" style="swimlane;startSize=0;rounded=1;shadow=0;labelBackgroundColor=none;noLabel=1;fillColor=#dae8fc;strokeColor=#6c8ebf;" parent="1" vertex="1">
           <mxGeometry x="312.5" y="-260" width="345" height="240" as="geometry" />
         </mxCell>
-        <mxCell id="WQcWtHXtiNmqQjXh-VJ1-15" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="clGpNB9oHALhCs1MbPwn-42" source="clGpNB9oHALhCs1MbPwn-44" target="clGpNB9oHALhCs1MbPwn-45">
+        <mxCell id="WQcWtHXtiNmqQjXh-VJ1-15" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" parent="clGpNB9oHALhCs1MbPwn-42" source="clGpNB9oHALhCs1MbPwn-44" target="clGpNB9oHALhCs1MbPwn-45" edge="1">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="clGpNB9oHALhCs1MbPwn-44" value="TelcoCard Service" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#ffe6cc;strokeColor=#d79b00;" parent="clGpNB9oHALhCs1MbPwn-42" vertex="1">
@@ -166,15 +169,15 @@
           <mxGeometry x="230" y="20" width="60" height="60" as="geometry" />
         </mxCell>
         <mxCell id="clGpNB9oHALhCs1MbPwn-46" value="&lt;div&gt;- Nhận request gạch thẻ&amp;nbsp; &amp;gt;&amp;gt; cho vào queue &lt;br&gt;&lt;/div&gt;&lt;div&gt;- Enqueu &amp;gt;&amp;gt; Lưu giao dịch vào DB ,gọi http api của telco&amp;nbsp; nhận về kết quả luôn &lt;br&gt;&lt;/div&gt;&lt;div&gt;- có kết quả &amp;gt;&amp;gt; cho vào queue callback&lt;/div&gt;&lt;div&gt;- Enque callback gọi webhook đối tác &lt;br&gt;&lt;/div&gt;" style="text;html=1;whiteSpace=wrap;overflow=hidden;rounded=0;" parent="clGpNB9oHALhCs1MbPwn-42" vertex="1">
-          <mxGeometry x="15" y="112.5" width="295" height="137.5" as="geometry" />
+          <mxGeometry x="25" y="102.5" width="305" height="107.5" as="geometry" />
         </mxCell>
         <mxCell id="clGpNB9oHALhCs1MbPwn-43" value="&lt;b&gt;Telco Card Servce&lt;br&gt;&lt;/b&gt;" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" parent="1" vertex="1">
           <mxGeometry x="140" y="-210" width="130" height="30" as="geometry" />
         </mxCell>
-        <mxCell id="WQcWtHXtiNmqQjXh-VJ1-1" value="Card Queue ( Rabbit MQ) FIFO các lệnh gạch thẻ ( để hệ thống k bị quá tải)" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#fff2cc;strokeColor=#d6b656;" vertex="1" parent="1">
+        <mxCell id="WQcWtHXtiNmqQjXh-VJ1-1" value="Card Queue ( Rabbit MQ) FIFO các lệnh gạch thẻ ( để hệ thống k bị quá tải)" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#fff2cc;strokeColor=#d6b656;" parent="1" vertex="1">
           <mxGeometry x="590" y="-430" width="480" height="50" as="geometry" />
         </mxCell>
-        <mxCell id="WQcWtHXtiNmqQjXh-VJ1-2" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="clGpNB9oHALhCs1MbPwn-42" target="WQcWtHXtiNmqQjXh-VJ1-1">
+        <mxCell id="WQcWtHXtiNmqQjXh-VJ1-2" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" parent="1" source="clGpNB9oHALhCs1MbPwn-42" target="WQcWtHXtiNmqQjXh-VJ1-1" edge="1">
           <mxGeometry relative="1" as="geometry">
             <Array as="points">
               <mxPoint x="485" y="-410" />
@@ -182,32 +185,37 @@
             </Array>
           </mxGeometry>
         </mxCell>
-        <mxCell id="WQcWtHXtiNmqQjXh-VJ1-4" value="Callback&amp;nbsp; Queue ( Rabbit MQ) FIFO các lệnh callback ( để hệ thống k bị quá tải)" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#fff2cc;strokeColor=#d6b656;" vertex="1" parent="1">
+        <mxCell id="WQcWtHXtiNmqQjXh-VJ1-4" value="Callback&amp;nbsp; Queue ( Rabbit MQ) FIFO các lệnh callback ( để hệ thống k bị quá tải)" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#fff2cc;strokeColor=#d6b656;" parent="1" vertex="1">
           <mxGeometry x="590" y="-350" width="480" height="50" as="geometry" />
         </mxCell>
-        <mxCell id="WQcWtHXtiNmqQjXh-VJ1-5" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=1;entryY=0.5;entryDx=0;entryDy=0;entryPerimeter=0;" edge="1" parent="1" source="WQcWtHXtiNmqQjXh-VJ1-4" target="clGpNB9oHALhCs1MbPwn-20">
+        <mxCell id="WQcWtHXtiNmqQjXh-VJ1-5" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=1;entryY=0.5;entryDx=0;entryDy=0;entryPerimeter=0;" parent="1" source="WQcWtHXtiNmqQjXh-VJ1-4" target="clGpNB9oHALhCs1MbPwn-20" edge="1">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="WQcWtHXtiNmqQjXh-VJ1-11" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="WQcWtHXtiNmqQjXh-VJ1-7" target="clGpNB9oHALhCs1MbPwn-44">
+        <mxCell id="WQcWtHXtiNmqQjXh-VJ1-11" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" parent="1" source="WQcWtHXtiNmqQjXh-VJ1-7" target="clGpNB9oHALhCs1MbPwn-44" edge="1">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points">
+              <mxPoint x="50" y="-210" />
+              <mxPoint x="50" y="-210" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="WQcWtHXtiNmqQjXh-VJ1-7" value="FE REACCT JS " style="verticalLabelPosition=bottom;html=1;verticalAlign=top;align=center;strokeColor=none;fillColor=#00BEF2;shape=mxgraph.azure.website_generic;pointerEvents=1;" parent="1" vertex="1">
+          <mxGeometry x="-180" y="-250" width="130" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="WQcWtHXtiNmqQjXh-VJ1-9" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.217;entryY=1.04;entryDx=0;entryDy=0;entryPerimeter=0;" parent="1" source="clGpNB9oHALhCs1MbPwn-42" target="WQcWtHXtiNmqQjXh-VJ1-4" edge="1">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="WQcWtHXtiNmqQjXh-VJ1-7" value="FE REACCT JS " style="verticalLabelPosition=bottom;html=1;verticalAlign=top;align=center;strokeColor=none;fillColor=#00BEF2;shape=mxgraph.azure.website_generic;pointerEvents=1;" vertex="1" parent="1">
-          <mxGeometry x="-180" y="-270" width="130" height="80" as="geometry" />
-        </mxCell>
-        <mxCell id="WQcWtHXtiNmqQjXh-VJ1-9" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.217;entryY=1.04;entryDx=0;entryDy=0;entryPerimeter=0;" edge="1" parent="1" source="clGpNB9oHALhCs1MbPwn-42" target="WQcWtHXtiNmqQjXh-VJ1-4">
-          <mxGeometry relative="1" as="geometry" />
-        </mxCell>
-        <mxCell id="WQcWtHXtiNmqQjXh-VJ1-12" value="Partner" style="image;sketch=0;aspect=fixed;html=1;points=[];align=center;fontSize=12;image=img/lib/mscae/Two_User_Icon.svg;" vertex="1" parent="1">
+        <mxCell id="WQcWtHXtiNmqQjXh-VJ1-12" value="Partner" style="image;sketch=0;aspect=fixed;html=1;points=[];align=center;fontSize=12;image=img/lib/mscae/Two_User_Icon.svg;" parent="1" vertex="1">
           <mxGeometry x="-220" y="130" width="50" height="50" as="geometry" />
         </mxCell>
-        <mxCell id="WQcWtHXtiNmqQjXh-VJ1-13" value="Partner" style="image;sketch=0;aspect=fixed;html=1;points=[];align=center;fontSize=12;image=img/lib/mscae/Two_User_Icon.svg;" vertex="1" parent="1">
+        <mxCell id="WQcWtHXtiNmqQjXh-VJ1-13" value="Partner" style="image;sketch=0;aspect=fixed;html=1;points=[];align=center;fontSize=12;image=img/lib/mscae/Two_User_Icon.svg;" parent="1" vertex="1">
           <mxGeometry x="-220" y="-50" width="50" height="50" as="geometry" />
         </mxCell>
-        <mxCell id="WQcWtHXtiNmqQjXh-VJ1-6" value="&lt;div&gt;&lt;b&gt;DATABASE POSTGRES: &lt;/b&gt;&lt;br&gt;&lt;/div&gt;&lt;div&gt;- Table CardReqest : chứa các lệnh gạch thẻ &lt;br&gt;&lt;/div&gt;&lt;div&gt;- Table Partner : chứa các partner ( có api key để author) &lt;br&gt;&lt;/div&gt;&lt;div&gt;- Table Callback : Lưu các lệnh callback và kết quả callback tới webhook đối tác &lt;br&gt;&lt;/div&gt;- Đồng bộ lịch sử của các vendor ( paypal, perfect money, web money)" style="text;html=1;whiteSpace=wrap;overflow=hidden;rounded=0;" vertex="1" parent="1">
+        <mxCell id="WQcWtHXtiNmqQjXh-VJ1-6" value="&lt;div&gt;&lt;b&gt;DATABASE POSTGRES: &lt;/b&gt;&lt;br&gt;&lt;/div&gt;&lt;div&gt;- Table CardReqest : chứa các lệnh gạch thẻ &lt;br&gt;&lt;/div&gt;&lt;div&gt;- Table Partner : chứa các partner ( có api key để author) &lt;br&gt;&lt;/div&gt;&lt;div&gt;- Table Callback : Lưu các lệnh callback và kết quả callback tới webhook đối tác &lt;br&gt;&lt;/div&gt;- Đồng bộ lịch sử của các vendor ( paypal, perfect money, web money)" style="text;html=1;whiteSpace=wrap;overflow=hidden;rounded=0;" parent="1" vertex="1">
           <mxGeometry x="722.5" y="-250" width="295" height="160" as="geometry" />
         </mxCell>
-        <mxCell id="WQcWtHXtiNmqQjXh-VJ1-14" value="&lt;b&gt;Backend React JS : &lt;/b&gt;&lt;br&gt;&lt;div&gt;- Hiện thị lịch sử nạp thẻ&amp;nbsp; ( có filter lọc&amp;nbsp; theo từng đối tác ) &lt;/div&gt;&lt;div&gt;- Role admin : Quản trị Partner ( CRUD) &lt;br&gt;&lt;/div&gt;&lt;div&gt;- Hiện thị lịch sử callback ( có filter lọc&amp;nbsp; theo từng đối tác ) &lt;br&gt;&lt;/div&gt;" style="text;html=1;whiteSpace=wrap;overflow=hidden;rounded=0;" vertex="1" parent="1">
-          <mxGeometry x="-320" y="-430" width="295" height="105" as="geometry" />
+        <mxCell id="WQcWtHXtiNmqQjXh-VJ1-14" value="&lt;b&gt;Backend React JS : &lt;/b&gt;&lt;br&gt;&lt;div&gt;- Hiện thị lịch sử nạp thẻ&amp;nbsp; ( có filter lọc&amp;nbsp; theo từng đối tác ) &lt;/div&gt;&lt;div&gt;- Role admin : Quản trị Partner ( CRUD) &lt;br&gt;&lt;/div&gt;&lt;div&gt;- Hiện thị lịch sử callback ( có filter lọc&amp;nbsp; theo từng đối tác ) &lt;br&gt;&lt;/div&gt;" style="text;html=1;whiteSpace=wrap;overflow=hidden;rounded=0;" parent="1" vertex="1">
+          <mxGeometry x="-340" y="-430" width="340" height="105" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
