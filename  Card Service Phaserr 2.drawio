@@ -223,7 +223,7 @@
         <mxCell id="rdtpH4Xz1smNQ7SYPHI5-1" value="Partner" style="image;sketch=0;aspect=fixed;html=1;points=[];align=center;fontSize=12;image=img/lib/mscae/Two_User_Icon.svg;" vertex="1" parent="1">
           <mxGeometry x="-390" y="-880" width="50" height="50" as="geometry" />
         </mxCell>
-        <mxCell id="rdtpH4Xz1smNQ7SYPHI5-35" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="rdtpH4Xz1smNQ7SYPHI5-18" target="rdtpH4Xz1smNQ7SYPHI5-26">
+        <mxCell id="rdtpH4Xz1smNQ7SYPHI5-41" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="rdtpH4Xz1smNQ7SYPHI5-18" target="rdtpH4Xz1smNQ7SYPHI5-26">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="rdtpH4Xz1smNQ7SYPHI5-18" value="API GATEWAY" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#f5f5f5;fontColor=#333333;strokeColor=#666666;" vertex="1" parent="1">
@@ -241,14 +241,22 @@
         <mxCell id="rdtpH4Xz1smNQ7SYPHI5-20" value="Partner" style="image;sketch=0;aspect=fixed;html=1;points=[];align=center;fontSize=12;image=img/lib/mscae/Two_User_Icon.svg;" vertex="1" parent="1">
           <mxGeometry x="-390" y="-650" width="50" height="50" as="geometry" />
         </mxCell>
+        <mxCell id="rdtpH4Xz1smNQ7SYPHI5-44" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="rdtpH4Xz1smNQ7SYPHI5-26" target="rdtpH4Xz1smNQ7SYPHI5-40">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points">
+              <mxPoint x="240" y="-730" />
+              <mxPoint x="240" y="-730" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
         <mxCell id="rdtpH4Xz1smNQ7SYPHI5-26" value="TelcoCard Service" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#ffe6cc;strokeColor=#d79b00;" vertex="1" parent="1">
-          <mxGeometry x="80" y="-780" width="170" height="60" as="geometry" />
+          <mxGeometry x="115" y="-890" width="170" height="60" as="geometry" />
         </mxCell>
         <mxCell id="rdtpH4Xz1smNQ7SYPHI5-39" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="rdtpH4Xz1smNQ7SYPHI5-27" target="rdtpH4Xz1smNQ7SYPHI5-26">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="rdtpH4Xz1smNQ7SYPHI5-27" value="Card DB" style="shape=cylinder3;whiteSpace=wrap;html=1;boundedLbl=1;backgroundOutline=1;size=15;fillColor=#dae8fc;strokeColor=#6c8ebf;" vertex="1" parent="1">
-          <mxGeometry x="140" y="-910" width="60" height="60" as="geometry" />
+          <mxGeometry x="170" y="-1000" width="60" height="60" as="geometry" />
         </mxCell>
         <mxCell id="rdtpH4Xz1smNQ7SYPHI5-33" value="API KEY&amp;nbsp; j6QPa3fYUpusXncG8yhTNV: " style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" vertex="1" connectable="0" parent="1">
           <mxGeometry x="-230" y="-850" as="geometry">
@@ -260,11 +268,23 @@
             <mxPoint x="-1" y="71" as="offset" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="rdtpH4Xz1smNQ7SYPHI5-37" value="&lt;b&gt;Webhook : &lt;/b&gt;&lt;br&gt;&lt;div&gt;- mỗi partner sẽ có 1 webhook&lt;br&gt;&lt;/div&gt;&lt;div&gt;- mỗi partner 1 api key khác nhau&lt;br&gt;&lt;/div&gt;" style="text;html=1;whiteSpace=wrap;overflow=hidden;rounded=0;" vertex="1" parent="1">
-          <mxGeometry x="80" y="-690" width="210" height="60" as="geometry" />
-        </mxCell>
         <mxCell id="rdtpH4Xz1smNQ7SYPHI5-38" value="&lt;b&gt;Table Partner :&lt;/b&gt;&lt;br&gt;&lt;div&gt;- Chứ các thông tin gạch thẻ của partnet ( ví dụ api key)&lt;br&gt;&lt;/div&gt;&lt;div&gt;- mỗi partner 1 api key khác nhau&lt;/div&gt;&lt;div&gt;- mỗi partner 1 webhook khác nhau &lt;br&gt;&lt;/div&gt;" style="text;html=1;whiteSpace=wrap;overflow=hidden;rounded=0;" vertex="1" parent="1">
-          <mxGeometry x="270" y="-932.5" width="390" height="105" as="geometry" />
+          <mxGeometry x="285" y="-1010" width="390" height="105" as="geometry" />
+        </mxCell>
+        <mxCell id="rdtpH4Xz1smNQ7SYPHI5-42" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=1;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="rdtpH4Xz1smNQ7SYPHI5-40" target="rdtpH4Xz1smNQ7SYPHI5-26">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points">
+              <mxPoint x="280" y="-765" />
+              <mxPoint x="305" y="-765" />
+              <mxPoint x="305" y="-860" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="rdtpH4Xz1smNQ7SYPHI5-40" value="&lt;div&gt;User Service&lt;/div&gt;&lt;div&gt;&lt;br&gt;&lt;/div&gt;" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#e1d5e7;strokeColor=#9673a6;" vertex="1" parent="1">
+          <mxGeometry x="120" y="-700" width="170" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="rdtpH4Xz1smNQ7SYPHI5-43" value="&lt;b&gt;Qua User Service :&lt;/b&gt;&lt;br&gt;&lt;div&gt;- Lấy được thông tin của user ở dịch vụ, ví dụ ở telco service các thông tin của user đó là id= 20 &lt;br&gt;&lt;/div&gt;" style="text;html=1;whiteSpace=wrap;overflow=hidden;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="242.5" y="-630" width="390" height="105" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
