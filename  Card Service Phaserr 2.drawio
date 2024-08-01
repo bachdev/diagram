@@ -261,7 +261,7 @@
           </mxGeometry>
         </mxCell>
         <mxCell id="rdtpH4Xz1smNQ7SYPHI5-37" value="&lt;b&gt;Webhook : &lt;/b&gt;&lt;br&gt;&lt;div&gt;- mỗi partner sẽ có 1 webhook&lt;br&gt;&lt;/div&gt;&lt;div&gt;- mỗi partner 1 api key khác nhau&lt;br&gt;&lt;/div&gt;" style="text;html=1;whiteSpace=wrap;overflow=hidden;rounded=0;" vertex="1" parent="1">
-          <mxGeometry x="80" y="-690" width="390" height="105" as="geometry" />
+          <mxGeometry x="80" y="-690" width="210" height="60" as="geometry" />
         </mxCell>
         <mxCell id="rdtpH4Xz1smNQ7SYPHI5-38" value="&lt;b&gt;Table Partner :&lt;/b&gt;&lt;br&gt;&lt;div&gt;- Chứ các thông tin gạch thẻ của partnet ( ví dụ api key)&lt;br&gt;&lt;/div&gt;&lt;div&gt;- mỗi partner 1 api key khác nhau&lt;/div&gt;&lt;div&gt;- mỗi partner 1 webhook khác nhau &lt;br&gt;&lt;/div&gt;" style="text;html=1;whiteSpace=wrap;overflow=hidden;rounded=0;" vertex="1" parent="1">
           <mxGeometry x="270" y="-932.5" width="390" height="105" as="geometry" />
