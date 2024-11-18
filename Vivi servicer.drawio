@@ -142,7 +142,7 @@
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="isoSCwNyjUuJ1y2WLRkC-21" value="FE Payment Service" style="image;aspect=fixed;html=1;points=[];align=center;fontSize=12;image=img/lib/azure2/general/Browser.svg;" parent="1" vertex="1">
-          <mxGeometry x="-212" y="504" width="65" height="52" as="geometry" />
+          <mxGeometry x="-217" y="560" width="65" height="52" as="geometry" />
         </mxCell>
         <mxCell id="isoSCwNyjUuJ1y2WLRkC-24" value="Gửi http request tới webhook đối tác " style="text;html=1;whiteSpace=wrap;overflow=hidden;rounded=0;" parent="1" vertex="1">
           <mxGeometry x="-60" y="780" width="170" height="60" as="geometry" />
