@@ -20,10 +20,10 @@
           <mxGeometry x="35" y="130" width="90" height="30" as="geometry" />
         </mxCell>
         <mxCell id="ymEb2g0kcDg-jAVKu9gT-16" value="Core Banking&amp;nbsp; API" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#f5f5f5;strokeColor=#666666;fontColor=#333333;" parent="1" vertex="1">
-          <mxGeometry x="720" y="200" width="297.5" height="60" as="geometry" />
+          <mxGeometry x="720" y="282.5" width="297.5" height="60" as="geometry" />
         </mxCell>
         <mxCell id="ymEb2g0kcDg-jAVKu9gT-24" value="Post" style="swimlane;startSize=0;rounded=1;shadow=0;fontColor=none;labelBackgroundColor=none;noLabel=1;" parent="1" vertex="1">
-          <mxGeometry x="720" y="60" width="320" height="102.5" as="geometry" />
+          <mxGeometry x="720" y="60" width="320" height="170" as="geometry" />
         </mxCell>
         <mxCell id="ymEb2g0kcDg-jAVKu9gT-4" value="&lt;div&gt;Core banking&lt;span style=&quot;white-space: pre;&quot;&gt;&#x9;&lt;/span&gt;&lt;/div&gt;&lt;div&gt;&lt;span style=&quot;white-space: pre;&quot;&gt;(JAVA)&lt;br&gt;&lt;/span&gt;&lt;/div&gt;" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#f5f5f5;strokeColor=#666666;fontColor=#333333;" parent="ymEb2g0kcDg-jAVKu9gT-24" vertex="1">
           <mxGeometry x="25" y="22.5" width="170" height="60" as="geometry" />
@@ -83,7 +83,7 @@
           </mxGeometry>
         </mxCell>
         <mxCell id="ymEb2g0kcDg-jAVKu9gT-58" value="Post" style="swimlane;startSize=0;rounded=1;shadow=0;fontColor=none;labelBackgroundColor=none;noLabel=1;dashed=1;" parent="1" vertex="1">
-          <mxGeometry x="710" y="290" width="215" height="390" as="geometry" />
+          <mxGeometry x="1180" y="-390" width="215" height="1250" as="geometry" />
         </mxCell>
         <mxCell id="clGpNB9oHALhCs1MbPwn-10" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" parent="ymEb2g0kcDg-jAVKu9gT-58" source="ymEb2g0kcDg-jAVKu9gT-59" target="ymEb2g0kcDg-jAVKu9gT-19" edge="1">
           <mxGeometry relative="1" as="geometry" />
@@ -92,10 +92,10 @@
           <mxGeometry x="67.5" y="362.5" width="80" height="30" as="geometry" />
         </mxCell>
         <mxCell id="ymEb2g0kcDg-jAVKu9gT-19" value="&lt;div&gt;EventDB&amp;nbsp;&lt;/div&gt;&lt;div&gt;(RabitMQ OR Redis)&lt;/div&gt;" style="shape=cylinder3;whiteSpace=wrap;html=1;boundedLbl=1;backgroundOutline=1;size=15;fillColor=#fff2cc;strokeColor=#d6b656;" parent="ymEb2g0kcDg-jAVKu9gT-58" vertex="1">
-          <mxGeometry x="130" y="22.5" width="70" height="330" as="geometry" />
+          <mxGeometry x="130" y="22.5" width="70" height="1197.5" as="geometry" />
         </mxCell>
         <mxCell id="ymEb2g0kcDg-jAVKu9gT-23" value="Event&amp;nbsp; Service" style="rounded=1;whiteSpace=wrap;html=1;" parent="ymEb2g0kcDg-jAVKu9gT-58" vertex="1">
-          <mxGeometry x="30" y="22.5" width="70" height="327.5" as="geometry" />
+          <mxGeometry x="30" y="22.5" width="70" height="1197.5" as="geometry" />
         </mxCell>
         <mxCell id="ymEb2g0kcDg-jAVKu9gT-73" value="TỔNG QUAN VNPAY PLUS" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=#b85450;fillColor=#f8cecc;fontStyle=1" parent="1" vertex="1">
           <mxGeometry x="-304" y="955" width="170" height="30" as="geometry" />
@@ -263,7 +263,7 @@
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="clGpNB9oHALhCs1MbPwn-47" value="FE Web quản trị USDT " style="image;aspect=fixed;html=1;points=[];align=center;fontSize=12;image=img/lib/azure2/general/Browser.svg;" parent="1" vertex="1">
-          <mxGeometry x="-219.5" y="-76" width="65" height="52" as="geometry" />
+          <mxGeometry x="-217" y="-250" width="65" height="52" as="geometry" />
         </mxCell>
         <mxCell id="clGpNB9oHALhCs1MbPwn-50" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" parent="1" source="clGpNB9oHALhCs1MbPwn-49" target="ymEb2g0kcDg-jAVKu9gT-15" edge="1">
           <mxGeometry relative="1" as="geometry" />
@@ -286,6 +286,9 @@
         <mxCell id="clGpNB9oHALhCs1MbPwn-57" value="React JS" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;fontStyle=1;fontColor=#FF33FF;" parent="1" vertex="1">
           <mxGeometry x="-217" y="10" width="70" height="30" as="geometry" />
         </mxCell>
+        <mxCell id="Z37CgXNpSZ4neGieDBuo-16" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="Z37CgXNpSZ4neGieDBuo-1" target="ymEb2g0kcDg-jAVKu9gT-3">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
         <mxCell id="Z37CgXNpSZ4neGieDBuo-1" value="Post" style="swimlane;startSize=0;rounded=1;shadow=0;labelBackgroundColor=none;noLabel=1;fillColor=#dae8fc;strokeColor=#6c8ebf;" vertex="1" parent="1">
           <mxGeometry x="280" y="-550" width="345" height="160" as="geometry" />
         </mxCell>
@@ -301,6 +304,9 @@
         <mxCell id="Z37CgXNpSZ4neGieDBuo-5" value="&lt;div&gt;- Dịch vụ cho thuê Proxy ( Tính tiền theo tháng)&lt;br&gt;&lt;/div&gt;&lt;div&gt;&lt;br&gt;&lt;/div&gt;" style="text;html=1;whiteSpace=wrap;overflow=hidden;rounded=0;" vertex="1" parent="Z37CgXNpSZ4neGieDBuo-1">
           <mxGeometry x="15" y="112.5" width="295" height="47.5" as="geometry" />
         </mxCell>
+        <mxCell id="Z37CgXNpSZ4neGieDBuo-17" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="Z37CgXNpSZ4neGieDBuo-6" target="ymEb2g0kcDg-jAVKu9gT-3">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
         <mxCell id="Z37CgXNpSZ4neGieDBuo-6" value="Post" style="swimlane;startSize=0;rounded=1;shadow=0;labelBackgroundColor=none;noLabel=1;fillColor=#dae8fc;strokeColor=#6c8ebf;" vertex="1" parent="1">
           <mxGeometry x="280" y="-740" width="345" height="160" as="geometry" />
         </mxCell>
@@ -315,6 +321,12 @@
         </mxCell>
         <mxCell id="Z37CgXNpSZ4neGieDBuo-10" value="- Dịch vụ giải captcha " style="text;html=1;whiteSpace=wrap;overflow=hidden;rounded=0;" vertex="1" parent="Z37CgXNpSZ4neGieDBuo-6">
           <mxGeometry x="15" y="112.5" width="295" height="47.5" as="geometry" />
+        </mxCell>
+        <mxCell id="Z37CgXNpSZ4neGieDBuo-19" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="Z37CgXNpSZ4neGieDBuo-18" target="ymEb2g0kcDg-jAVKu9gT-15">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="Z37CgXNpSZ4neGieDBuo-18" value="FE WEB QUẢN TRỊ CHUNG" style="image;aspect=fixed;html=1;points=[];align=center;fontSize=12;image=img/lib/azure2/general/Browser.svg;fontColor=none;noLabel=1;" vertex="1" parent="1">
+          <mxGeometry x="-217" y="-110" width="65" height="52" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
