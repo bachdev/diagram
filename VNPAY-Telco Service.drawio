@@ -10,7 +10,7 @@
         <mxCell id="KPSFEAyEa-h0zJyFd5Fp-2" value="&lt;b&gt;Telco&amp;nbsp; Service&lt;br&gt;&lt;/b&gt;" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="KPSFEAyEa-h0zJyFd5Fp-1">
           <mxGeometry x="140" y="82.5" width="100" height="30" as="geometry" />
         </mxCell>
-        <mxCell id="KPSFEAyEa-h0zJyFd5Fp-3" value="Teoco Service" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#fff2cc;strokeColor=#d6b656;" vertex="1" parent="KPSFEAyEa-h0zJyFd5Fp-1">
+        <mxCell id="KPSFEAyEa-h0zJyFd5Fp-3" value="Telco Service" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#fff2cc;strokeColor=#d6b656;" vertex="1" parent="KPSFEAyEa-h0zJyFd5Fp-1">
           <mxGeometry x="20" y="20" width="170" height="60" as="geometry" />
         </mxCell>
         <mxCell id="KPSFEAyEa-h0zJyFd5Fp-4" value="Telco DB" style="shape=cylinder3;whiteSpace=wrap;html=1;boundedLbl=1;backgroundOutline=1;size=15;fillColor=#dae8fc;strokeColor=#6c8ebf;" vertex="1" parent="KPSFEAyEa-h0zJyFd5Fp-1">
