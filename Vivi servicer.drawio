@@ -223,7 +223,7 @@
         <mxCell id="clGpNB9oHALhCs1MbPwn-33" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=1.003;entryY=0.58;entryDx=0;entryDy=0;entryPerimeter=0;" parent="1" source="ymEb2g0kcDg-jAVKu9gT-58" target="ymEb2g0kcDg-jAVKu9gT-41" edge="1">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="clGpNB9oHALhCs1MbPwn-36" value="&lt;div&gt;- Cung cấp dịch vụ cho thuê payment ( paypal, PM, WMZ ...) cho người dùng mà người dùng không cần có tài khoản &lt;br&gt;&lt;/div&gt;&lt;div&gt;-Tài khoản người dùng có số dư để thực hiện dịch vụ nạp rút ( = VNĐ, theo tỉ giá quy đổi của hệ thống ) &lt;br&gt;&lt;/div&gt;&lt;div&gt;&lt;br&gt;&lt;/div&gt;" style="text;html=1;whiteSpace=wrap;overflow=hidden;rounded=0;" parent="1" vertex="1">
+        <mxCell id="clGpNB9oHALhCs1MbPwn-36" value="&lt;div&gt;- Cổng thanh toán quy tập tất cả các dịch vụ thanh toán và dịch vụ MMO&lt;/div&gt;&lt;div&gt;- Cung cấp dưới dạng API , tích hợp dễ dang, hệ thống always Up-time và chịu tải tốt&lt;/div&gt;&lt;div&gt;&lt;br&gt;&lt;/div&gt;" style="text;html=1;whiteSpace=wrap;overflow=hidden;rounded=0;" parent="1" vertex="1">
           <mxGeometry x="-424" y="1010" width="410" height="60" as="geometry" />
         </mxCell>
         <mxCell id="clGpNB9oHALhCs1MbPwn-37" value="Post" style="swimlane;startSize=0;rounded=1;shadow=0;labelBackgroundColor=none;noLabel=1;fillColor=#dae8fc;strokeColor=#6c8ebf;" parent="1" vertex="1">
