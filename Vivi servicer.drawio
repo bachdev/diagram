@@ -88,12 +88,6 @@
         <mxCell id="ymEb2g0kcDg-jAVKu9gT-58" value="Post" style="swimlane;startSize=0;rounded=1;shadow=0;fontColor=none;labelBackgroundColor=none;noLabel=1;dashed=1;" parent="1" vertex="1">
           <mxGeometry x="1180" y="-390" width="215" height="1250" as="geometry" />
         </mxCell>
-        <mxCell id="clGpNB9oHALhCs1MbPwn-10" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" parent="ymEb2g0kcDg-jAVKu9gT-58" source="ymEb2g0kcDg-jAVKu9gT-59" target="ymEb2g0kcDg-jAVKu9gT-19" edge="1">
-          <mxGeometry relative="1" as="geometry" />
-        </mxCell>
-        <mxCell id="ymEb2g0kcDg-jAVKu9gT-59" value="&lt;b&gt;Event-Bus&lt;/b&gt;" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" parent="ymEb2g0kcDg-jAVKu9gT-58" vertex="1">
-          <mxGeometry x="67.5" y="362.5" width="80" height="30" as="geometry" />
-        </mxCell>
         <mxCell id="ymEb2g0kcDg-jAVKu9gT-19" value="&lt;div&gt;EventDB&amp;nbsp;&lt;/div&gt;&lt;div&gt;(RabitMQ OR Redis)&lt;/div&gt;" style="shape=cylinder3;whiteSpace=wrap;html=1;boundedLbl=1;backgroundOutline=1;size=15;fillColor=#fff2cc;strokeColor=#d6b656;" parent="ymEb2g0kcDg-jAVKu9gT-58" vertex="1">
           <mxGeometry x="130" y="22.5" width="70" height="1197.5" as="geometry" />
         </mxCell>
@@ -341,6 +335,9 @@
         </mxCell>
         <mxCell id="sNZJ7Mdx6r46W-c2oRe3-14" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.2;entryY=0.017;entryDx=0;entryDy=0;entryPerimeter=0;" edge="1" parent="1" source="sNZJ7Mdx6r46W-c2oRe3-7" target="ymEb2g0kcDg-jAVKu9gT-3">
           <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="ymEb2g0kcDg-jAVKu9gT-59" value="&lt;b&gt;Event-Bus&lt;/b&gt;" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" parent="1" vertex="1">
+          <mxGeometry x="1247.5" y="-420" width="80" height="30" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
