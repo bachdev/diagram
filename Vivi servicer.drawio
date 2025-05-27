@@ -206,9 +206,6 @@
         <mxCell id="clGpNB9oHALhCs1MbPwn-41" value="&lt;div&gt;- Dịch Vụ Nạp Thẻ vào Đơn Cước&lt;br&gt;&lt;/div&gt;&lt;div&gt;- Dịch Vụ kho thẻ ( thẻ cào sẽ bán)&lt;br&gt;&lt;/div&gt;&lt;div&gt;&lt;br&gt;&lt;/div&gt;" style="text;html=1;whiteSpace=wrap;overflow=hidden;rounded=0;" parent="clGpNB9oHALhCs1MbPwn-37" vertex="1">
           <mxGeometry x="15" y="112.5" width="295" height="47.5" as="geometry" />
         </mxCell>
-        <mxCell id="clGpNB9oHALhCs1MbPwn-49" value="FE Web quản trị đơn Cước" style="image;aspect=fixed;html=1;points=[];align=center;fontSize=12;image=img/lib/azure2/general/Browser.svg;" parent="clGpNB9oHALhCs1MbPwn-37" vertex="1">
-          <mxGeometry x="332.5" y="24" width="65" height="52" as="geometry" />
-        </mxCell>
         <mxCell id="clGpNB9oHALhCs1MbPwn-57" value="React JS" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;fontStyle=1;fontColor=#FF33FF;" parent="clGpNB9oHALhCs1MbPwn-37" vertex="1">
           <mxGeometry x="327.5" y="100" width="70" height="30" as="geometry" />
         </mxCell>
@@ -308,6 +305,18 @@
         </mxCell>
         <mxCell id="ymEb2g0kcDg-jAVKu9gT-59" value="&lt;b&gt;Event-Bus&lt;/b&gt;" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" parent="1" vertex="1">
           <mxGeometry x="1247.5" y="-420" width="80" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="Saqr8apEx2o19w3H_W5G-1" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="clGpNB9oHALhCs1MbPwn-49" target="ymEb2g0kcDg-jAVKu9gT-15">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="clGpNB9oHALhCs1MbPwn-49" value="Dashboard" style="image;aspect=fixed;html=1;points=[];align=center;fontSize=12;image=img/lib/azure2/general/Browser.svg;" parent="1" vertex="1">
+          <mxGeometry x="-210" y="130" width="65" height="52" as="geometry" />
+        </mxCell>
+        <mxCell id="Saqr8apEx2o19w3H_W5G-2" value="Landing Page" style="image;aspect=fixed;html=1;points=[];align=center;fontSize=12;image=img/lib/azure2/general/Browser.svg;" vertex="1" parent="1">
+          <mxGeometry x="-214.5" width="65" height="52" as="geometry" />
+        </mxCell>
+        <mxCell id="Saqr8apEx2o19w3H_W5G-3" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.138;entryY=-0.012;entryDx=0;entryDy=0;entryPerimeter=0;" edge="1" parent="1" source="Saqr8apEx2o19w3H_W5G-2" target="ymEb2g0kcDg-jAVKu9gT-15">
+          <mxGeometry relative="1" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
