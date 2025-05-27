@@ -41,7 +41,10 @@
         </mxCell>
         <mxCell id="ymEb2g0kcDg-jAVKu9gT-67" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0.768;entryDx=0;entryDy=0;startArrow=classic;startFill=1;entryPerimeter=0;" parent="1" source="ymEb2g0kcDg-jAVKu9gT-47" target="ymEb2g0kcDg-jAVKu9gT-58" edge="1">
           <mxGeometry relative="1" as="geometry">
-            <Array as="points" />
+            <Array as="points">
+              <mxPoint x="906" y="510" />
+              <mxPoint x="906" y="570" />
+            </Array>
           </mxGeometry>
         </mxCell>
         <mxCell id="ymEb2g0kcDg-jAVKu9gT-47" value="Post" style="swimlane;startSize=0;rounded=1;shadow=0;labelBackgroundColor=none;noLabel=1;fillColor=#dae8fc;strokeColor=#6c8ebf;" parent="1" vertex="1">
