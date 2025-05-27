@@ -307,7 +307,12 @@
           <mxGeometry x="1247.5" y="-420" width="80" height="30" as="geometry" />
         </mxCell>
         <mxCell id="Saqr8apEx2o19w3H_W5G-1" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="clGpNB9oHALhCs1MbPwn-49" target="ymEb2g0kcDg-jAVKu9gT-15">
-          <mxGeometry relative="1" as="geometry" />
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points">
+              <mxPoint x="10" y="156" />
+              <mxPoint x="10" y="280" />
+            </Array>
+          </mxGeometry>
         </mxCell>
         <mxCell id="clGpNB9oHALhCs1MbPwn-49" value="Dashboard" style="image;aspect=fixed;html=1;points=[];align=center;fontSize=12;image=img/lib/azure2/general/Browser.svg;" parent="1" vertex="1">
           <mxGeometry x="-210" y="130" width="65" height="52" as="geometry" />
